@@ -457,19 +457,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Custom map VEEPEE"
+         "value":"Suitable for up to 100 users.\n\nYou won't believe it, but these offices are actually suspended in the air above a large park. Believe it or not, you will benefit from two separate open spaces, a meeting room, a private room for your most confidential calls and a room for presentations to the whole team!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/play.workadventu.re\/@\/veepee\/brief-virtual-office\/milan"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Open spaces"
